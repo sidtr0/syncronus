@@ -1,33 +1,7 @@
-# syncronus
+# Syncronus
 
-## Project setup
-```
-npm install
-```
+An open-source, multi-utility website made using VueJS and Vuetify Material Design.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+The website actually doesn't exist as the initial release of Syncronus hasn't been made. This is currently developed by me but if you want to help out, I'll be really grateful. 
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# syncronus
-# syncronus
-# syncronus
-# syncronus
+Cheers!
